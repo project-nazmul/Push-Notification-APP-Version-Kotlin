@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420102380426",
+    "project_id": "push-notification-kotlin-70c33",
+    "storage_bucket": "push-notification-kotlin-70c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420102380426:android:9a6848c2fdf4f6d221c673",
+        "android_client_info": {
+          "package_name": "com.opsonin.pushnotificationkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ6r2SmNCXi8-4rnj3Nd3kPD2UaZH51cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
